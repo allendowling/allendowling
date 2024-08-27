@@ -4,7 +4,7 @@ I'm currently training in a highly selective Microsoft-sponsored software develo
 
 What I’m Working On:
 
-.NET MAUI Application: Developing a Dungeons & Dragons dice roller app with advanced features like cloud-based roll sharing, multi-dice selection, and more.
+.NET MAUI Application: Developing a Tabletop game dice roller app with advanced features like cloud-based roll sharing, multi-dice selection, and more.
 Logbook Conversion Tool: Creating a tool to convert flight logbook data from Excel files to meet FAA 14 CFR Part 61 requirements.
 
 Skills & Expertise:

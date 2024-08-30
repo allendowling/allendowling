@@ -18,7 +18,7 @@ Software Development, Technical Program Management, Aviation Technology
 Let’s Connect
 I'm always open to learning, collaboration, and new opportunities. Feel free to explore my projects, and don't hesitate to reach out if you'd like to connect or collaborate on something exciting!
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="allen-dowling" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/allen-dowling?trk=profile-badge">Allen Dowling</a></div> LinkedIN profile
+
 
 
 <!---

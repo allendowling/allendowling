@@ -9,7 +9,8 @@ Logbook Conversion Tool: Creating a tool to convert flight logbook data from Exc
 
 Skills & Expertise:
 
-Programming Languages: C#, Python, JavaScript
+Programming Languages: C#
+
 Frameworks & Tools: .NET MAUI, WinForms, WPF, Azure
 
 Areas of Interest: 

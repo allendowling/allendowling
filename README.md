@@ -3,7 +3,7 @@ Hi, I'm Allen Dowling, a retired UH-60 Blackhawk instructor pilot with over 20 y
 
 What I’m Working On:
 
-Most recently creating an Object-oriented Inventory Management System with product/supplier/order classes, role-based authentication, real-time stock tracking, automated order updates, and reporting/analytics, backed by unit/integration tests and a simple CLI/GUI for interaction. 
+Most recently creating an Object-oriented Inventory Management System with product/supplier/order classes, role-based authentication, real-time stock tracking, automated order updates, and reporting/analytics, backed by unit/integration tests and a simple Qt GUI for interaction. 
 
 Developed and presented a .NET MAUI Application: Developing a Tabletop game dice roller app with advanced features like cloud-based roll sharing, multi-dice selection, and more, for the Capstone project completing my MSAA journey with Microsoft partners.
 
